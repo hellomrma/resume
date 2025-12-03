@@ -3,34 +3,6 @@
         {
             "source": "/resume/:path*",
             "destination": "/:path*"
-        },
-        {
-            "source": "/my-works-todo/:path*",
-            "destination": "https://hellomrma-works-todo.vercel.app/:path*"
-        },
-        {
-            "source": "/csharp-tutorials/:path*",
-            "destination": "https://csharp-tutorials.vercel.app/:path*"
-        },
-        {
-            "source": "/3d-models/:path*",
-            "destination": "https://3d-models-mrma.vercel.app/:path*"
-        },
-        {
-            "source": "/iui-putyourhandsup/:path*",
-            "destination": "https://iui-putyourhandsup.vercel.app/:path*"
-        },
-        {
-            "source": "/company-prototype/:path*",
-            "destination": "https://company-prototype.vercel.app/:path*"
-        },
-        {
-            "source": "/fe-roadmaps/:path*",
-            "destination": "https://fe-roadmaps.vercel.app/:path*"
-        },
-        {
-            "source": "/my-client-news/:path*",
-            "destination": "https://my-client-news.vercel.app/:path*"
         }
     ]
 }
