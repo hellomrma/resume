@@ -4,7 +4,7 @@ Frontend Developer 마광습의 포트폴리오 웹사이트입니다.
 
 ## 📋 프로젝트 소개
 
-경력 14년 이상의 Frontend Developer 마광습의 포트폴리오 웹사이트입니다. HTML, CSS, JavaScript 기반으로 제작되었으며, React, Next.js, Vue.js, TypeScript 등 최신 프론트엔드 기술을 활용합니다. 반응형 디자인과 SEO 최적화가 적용되어 있습니다.
+경력 14년 이상의 Frontend Developer 마광습의 포트폴리오 웹사이트입니다. HTML, CSS, JavaScript 기반으로 제작되었으며, React, Next.js, Vue.js, TypeScript 등 최신 프론트엔드 기술을 활용합니다. AI 코딩 도구를 활용해 설계부터 구현, 문서화까지 진행하는 작업 방식과 꾸준한 개인 프로젝트, 리포트·제안서 작성 역량도 함께 소개합니다. 반응형 디자인과 SEO 최적화가 적용되어 있습니다.
 
 ## 🛠 기술 스택
 
@@ -36,11 +36,12 @@ resume/
 ## 📱 섹션 구성
 
 1. **About Me** - 자기소개 및 기본 정보
-2. **Work Experience** - 경력 사항 및 프로젝트
-3. **Skills** - 기술 스택
-4. **Activities & Awards** - 활동 및 수상 내역
-5. **Education & Certificate** - 학력 및 자격증
-6. **Contact & Channel** - 연락처 및 채널
+2. **How I Work** - AI 활용 개발, 프레임워크 활용, 개인 프로젝트, 리포트·제안·보고서
+3. **Work Experience** - 경력 사항 및 프로젝트
+4. **Skills** - 기술 스택
+5. **Activities & Awards** - 활동 및 수상 내역
+6. **Education & Certificate** - 학력 및 자격증
+7. **Contact & Channel** - 연락처 및 채널
 
 ## 🚀 실행 방법
 
@@ -74,3 +75,4 @@ Copyright © 2012-2024 hellomrma.com. All rights reserved.
 - Email: hellomrma@gmail.com
 - Website: http://www.hellomrma.com
 - GitHub: https://github.com/hellomrma
+- Side Projects: https://www.playgrounder.dev/
